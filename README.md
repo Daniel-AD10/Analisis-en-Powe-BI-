@@ -29,21 +29,21 @@ El modelo permite explorar la información desde distintas perspectivas, brindan
 ### 1. Dashboard Principal
 _Visualización interactiva con indicadores clave, métricas de clientes, ventas y deuda._  
 
-![Dashboard]([foto1.JPG](https://github.com/Daniel-AD10/Analisis-en-Powe-BI-/blob/main/foto1.JPG))
+![foto1.JPG](https://github.com/Daniel-AD10/Analisis-en-Powe-BI-/blob/main/foto1.JPG)
 
 ---
 
 ### 2. Vista del Modelo
 _Estructura de relaciones entre tablas que conforman el modelo de datos._  
 
-![Modelo]([foto2.JPG](https://github.com/Daniel-AD10/Analisis-en-Powe-BI-/blob/main/foto2.JPG))
+![foto2.JPG](https://github.com/Daniel-AD10/Analisis-en-Powe-BI-/blob/main/foto2.JPG)
 
 ---
 
 ### 3. Tablas del Modelo
 _Conjunto de tablas utilizadas para soportar el análisis (hechos y dimensiones)._  
 
-![Tablas]([foto3.JPG](https://github.com/Daniel-AD10/Analisis-en-Powe-BI-/blob/main/foto3.JPG))
+![foto3.JPG](https://github.com/Daniel-AD10/Analisis-en-Powe-BI-/blob/main/foto3.JPG)
 
 ---
 
